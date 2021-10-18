@@ -1,0 +1,16 @@
+body{
+    background-color: blue;
+}
+
+.myInfo{
+    background-color: antiquewhite;
+}
+
+#education{
+    color: brown;
+}
+
+#experience{
+    font-size: larger;
+    color: chartreuse;
+}
